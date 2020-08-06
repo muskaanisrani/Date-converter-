@@ -1,4 +1,4 @@
-# myDate
+# DateConverter
 This is a project which uses Julian dates to manipulate and manage dates.
 The program uses Julian dates to carry out different functions like converting it to a Gregorian date(or vice versa), increasing or decreasing the number of days and also telling what day of the week this date falls on. 
 Formulas are used that convert a Gregorian date (example: 5/11/1959) to a Julian date which is the number of days that has elapsed since Nov 28, 4768 BC (or 11/28/-4768).
